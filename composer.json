@@ -1,0 +1,15 @@
+{
+  "name": "ncwest/riqwest",
+  "description": "NCWest PHP Requests Package",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dak Washbrook",
+      "email": "dwashbrook@ncsoft.com"
+    }
+  ],
+  "require": {
+    "vinlock/rest-codes": "dev-master"
+  }
+}
